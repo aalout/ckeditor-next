@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+.initial {
+    margin-top: 70px;
+    padding: 50px;
+    font-family: 'Lato';
+}
+
+.editorContainer {
+	font-family: 'Lato';
+	line-height: 1.6;
+	word-break: break-word;
+    background-color: #fff;
+}
+
+.editorContainerEditor {
+	font-family: 'Lato';
+}
